@@ -1,0 +1,3 @@
+[submodule "Owari/Discord-Utils"]
+	path = Owari/Discord-Utils
+	url = https://github.com/Xwilarg/Discord-Utils
